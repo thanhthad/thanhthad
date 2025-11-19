@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Hoang 👨‍💻</h1>
+<h1 align="center">Hi, I'm Dion 👨‍💻</h1>
 
 <p align="center">
-  Backend Developer | Java • Spring Boot • Security  
+  Backend Developer | Java • Spring Boot 
 </p>
 
 ---
@@ -19,9 +19,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="150"/>
 </p>
 
----
-
-### 🔥 Streak (Ngày nào cũng code)
-<p>
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
