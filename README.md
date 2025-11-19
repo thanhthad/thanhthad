@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Hoang 👨‍💻</h1>
 
-<!--
-**thanhthad/thanhthad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Backend Developer | Java • Spring Boot • Security  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technologies & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,git,docker,postman,idea" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=radical&show_icons=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="150"/>
+</p>
+
+---
+
+### 🔥 Streak (Ngày nào cũng code)
+<p>
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
